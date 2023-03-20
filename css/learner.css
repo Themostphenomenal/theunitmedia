@@ -1,0 +1,94 @@
+.div1 {
+    color: yellowgreen;
+    margin: 20px 20px 0px 20px;
+    margin-left: 80px;
+
+}
+
+
+.nav1{
+    /* margin: 20px 20px 0px 20px; */
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #008099;
+    letter-spacing: 2px;
+    display: block;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+aside{
+    float: right;
+    font-family: Helvetica, arial, sans-serif;
+   margin-bottom: 30px;
+    width: auto;
+}
+nav {
+    background: wheat;
+    padding: 10px 15px 10px 15px;
+}
+.foto{
+    margin-left: 50px;
+}
+ nav a {
+    text-decoration: none;
+    padding: 10px;
+ }
+.con {
+    text-align: center;
+    margin-top: 400px;
+
+}
+footer{
+    background: #008099;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin-top: 50px;
+}
+aside a{
+    background: #008099 ;
+    color: white;
+    text-decoration: none;
+    border-radius: 2em;
+    padding: 18px 50px 18px 50px;
+}
+aside div{
+    margin-top: 40px;
+   
+}
+aside ul{
+    line-height: 30px;
+}
+.main {
+    margin: left;
+    margin-left: 50px;
+}
+.main h1{
+    line-height: 35px;
+}
+.main p{
+    line-height: 30px;
+}
+.button {
+    float: left;
+}
+.night {
+    background: white;
+    color: black;
+}
+.fa {
+    padding: 2px;
+    font-size: 50px;
+    margin: 15px;
+    border-radius: 50%;
+    width: 1px;
+}
+.fa:hover{
+    opacity:0.7;
+    color: yellow;
+}
+.nav0 :hover{
+    color: yellow;
+}
